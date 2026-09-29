@@ -22,7 +22,7 @@
         "Cody Walker <cody@cody-walker.com>"
     ],
     "dependencies": {
-        "swagger-ui": "2.1.4",
+        "swagger-ui": "4.1.3",
         "i18next-client": "1.10.3"
     }
 }
